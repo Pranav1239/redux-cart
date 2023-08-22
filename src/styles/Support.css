@@ -1,0 +1,51 @@
+.box-1{
+    display: flex;
+    justify-content: center;
+}
+
+ .box-1-item{
+    background-color: transparent;
+    margin-top: 1pc;
+}
+
+/* .Text-Inimg{
+    position: absolute;
+    font-size: 10rem;
+    font-family: 'poppins';
+    text-align: center;
+    padding-left: 10pc;
+    padding-top: 10pc;
+    margin: 5rem;
+    color: transparent;
+
+    Add webkit text stroke to complete this
+} */
+
+
+.box-1-item img{
+    width: 100%;
+}
+
+.box-2{
+    margin-top: 4pc;
+    display: flex;
+    justify-content: center;
+    margin-bottom: 4pc;
+}
+
+.box-2-item{
+        width: 420px;
+        height: 400px;
+        background-color: transparent;
+        box-shadow: 10px 10px 10px 10px;
+        margin: 3rem;
+}
+
+.box-2-item img{
+    margin-left: 6pc;
+}
+
+.main-Text{
+    text-align: center;
+    padding: 15px;
+}

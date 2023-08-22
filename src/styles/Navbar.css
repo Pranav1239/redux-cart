@@ -1,0 +1,39 @@
+@media only screen and (max-width: 738px) {
+    .NavContainer{
+        display: block; 
+    }
+    
+    .Logo{
+        overflow: hidden;
+    }
+
+    .NavItems{
+        position: none;
+        margin: 0.1rem;
+    }
+
+  }
+
+
+.NavContainer{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.NavItemsMain{
+    margin-top: 1rem;
+}
+
+.NavItems{
+    text-decoration: none;
+    margin: 2.7rem;
+    color: black;
+    font-weight: 600;
+}
+
+.NavItems:hover{
+    text-decoration: underline;
+}
+
+
